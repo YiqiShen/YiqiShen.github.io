@@ -523,7 +523,7 @@ a.custom-button span {
 	display: block;
 	padding:0px 10px;
 	margin:23px 0px;
-	color: #ffffff;
+	color: #151515;
 	font-family: 'Montserrat', "Open Sans", "Helvetica Neue", "Helvetica", "Hiragino Sans GB", "Microsoft YaHei", "Source Han Sans CN", "WenQuanYi Micro Hei", Arial, sans-serif;
 	text-transform: uppercase;
 	letter-spacing: 1px;
@@ -535,7 +535,7 @@ a.custom-button span {
 }
 .navbar .nav li.nolink {
 	font-family: 'Montserrat', "Open Sans", "Helvetica Neue", "Helvetica", "Hiragino Sans GB", "Microsoft YaHei", "Source Han Sans CN", "WenQuanYi Micro Hei", Arial, sans-serif;
-	color: #ffffff;
+	color: #151515;
 	font-weight: 400;
 	text-shadow: none;
 	letter-spacing: 1px;
@@ -3328,7 +3328,7 @@ footer .footer_bottom {
 /* Import the font file with the icons in it */
 @font-face { font-family: 'icons'; src:  url('../fonts/icons.woff') format('woff'); font-weight: normal; font-style: normal; }
 /* Apply these base styles to all icons */
-.icon-feed:before, .icon-twitter:before, .icon-google-plus:before, .icon-facebook:before, .icon-sina-weibo, .icon-github{ font-family: 'icons'; speak: none; font-style: normal; font-weight: normal; font-variant: normal; text-transform: none; line-height: 1; -webkit-font-smoothing: antialiased; text-decoration: none;  fill: #ffffff; }
+.icon-feed:before, .icon-twitter:before, .icon-google-plus:before, .icon-facebook:before, .icon-sina-weibo, .icon-github{ font-family: 'icons'; speak: none; font-style: normal; font-weight: normal; font-variant: normal; text-transform: none; line-height: 1; -webkit-font-smoothing: antialiased; text-decoration: none; }
 /* Each icon is created by inserting the corret character into the
    content of the :before pseudo element. Like a boss. */
 .icon-feed:before { content: "\e631"; }
