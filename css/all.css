@@ -572,7 +572,7 @@ nav i.icon-basic-eye {
 }
 .lightnav .navbar-inner.lightnav-alt .nav > li > a,
 .lightnav .navbar-inner.lightnav-alt .learnmore {
-	color: #ffffff;
+	color: #151515;
 }
 /* Changes nav background color to white on scroll */
 .navbar-inner.lightnav-alt {
@@ -857,7 +857,7 @@ span.sb-caret { /* Caret Down */
 	padding: 14px;
 }
 #hero p {
-	color: #FFFFFF;
+	color: #ffffff;
 	font-family: 'Georgia', serif, Helvetica, "Helvetica Neue", "Hiragino Sans GB", "Microsoft YaHei", "Source Han Sans CN", "WenQuanYi Micro Hei", Arial, sans-serif;
 	font-size: 18px;
 	display: inline-block;
